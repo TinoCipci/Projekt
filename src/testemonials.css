@@ -1,0 +1,36 @@
+.testimonials {
+    margin-top: 20px;
+  }
+  
+  .testimonials h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .testimonial {
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .testimonial-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-name {
+    font-size: 14px;
+    font-style: italic;
+  }
+  
